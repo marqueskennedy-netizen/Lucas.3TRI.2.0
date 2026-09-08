@@ -1,1 +1,1 @@
-# Lucas.3TRI.2.0
+# 3-tri-Lucas
